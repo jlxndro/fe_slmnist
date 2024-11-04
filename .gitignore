@@ -1,0 +1,5 @@
+*
+!.gitignore
+!slmnist.py
+!slmnist4.h5
+!config.py
