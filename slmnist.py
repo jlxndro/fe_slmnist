@@ -2,8 +2,6 @@ import config
 import streamlit as st # type: ignore
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt # type: ignore
-import datetime
 import tensorflow as tf # type : ignore
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
